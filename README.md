@@ -1,4 +1,4 @@
-[![MasterHead]
+
 
 <h1><div align="center"> <img src="https://github.com/Kkashyap3002/Kkashyap3002/blob/main/social/github-header-image.png"> </div></h1>
 
