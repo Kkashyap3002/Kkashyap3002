@@ -6,7 +6,6 @@
 <img align="right" alt ="Coding" width="400" src ="https://img.freepik.com/free-photo/3d-rendering-kid-playing-digital-game_23-2150898496.jpg?t=st=1719134351~exp=1719137951~hmac=7a56f211e2598604927967f65c40bba9b9b4f67345e56e64b9d365ab2ec0b14a&w=1480">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkashyap3002&label=Profile%20views&color=0e75b6&style=flat" alt="kkashyap3002" /> </p>
 
-- 🔭 I’m currently working on [voice-enabled-chess and DSA-search-engine](https://github.com/Kkashyap3002/Voice-enabled-two-player-2D-chess https://github.com/Kkashyap3002/DSA-Problem-search-engine)
 
 - 🌱 I’m currently learning **Laravel , Typescript**
 
