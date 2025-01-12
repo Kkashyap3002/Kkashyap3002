@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkashyap3002&label=Profile%20views&color=0e75b6&style=flat" alt="kkashyap3002" /> </p>
 
 
-- 🌱 I’m currently learning **Laravel , Typescript**
+- 🌱 Currently learning about ** RAG, and AWS**
 
 - 📝 I sometimes draft articles on [https://medium.com/@kashyap3002](https://medium.com/@kashyap3002)
 
